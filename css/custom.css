@@ -1,0 +1,9 @@
+body {
+    background-color: #fff8f8;
+  }
+
+#mapid { height: 450px; }
+
+.Tweet-text {
+    font-size: 12px;
+}
